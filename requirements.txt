@@ -1,0 +1,24 @@
+# Deep Learning & Transformers
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+peft>=0.5.0
+accelerate>=0.23.0
+
+# Audio Processing
+librosa>=0.10.1
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Evaluation
+evaluate>=0.4.0
+jiwer>=3.0.0
+
+# API Deployment
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+
+# Visualization & Documentation (for notebooks & results)
+matplotlib>=3.7.0
+pandas>=2.0.0
